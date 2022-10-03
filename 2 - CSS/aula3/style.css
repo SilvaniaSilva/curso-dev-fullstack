@@ -1,0 +1,12 @@
+body { 
+    background-image: url(blackground.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 10%; */
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    color:rgba(8, 1, 8, 0.971)
+}
+

@@ -1,0 +1,16 @@
+body { 
+    background: #ffffff
+}
+
+p {
+    color:rgba(3, 0, 3, 0.4)
+}
+
+.foto-principal {
+    width: 150px;
+    border: 2px solid #751d7a; /* " tipo dessa propriedade é shorthand*/
+    border-radius:10%;
+    margin: 30px;
+    padding: 10px;
+}
+

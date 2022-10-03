@@ -1,0 +1,20 @@
+body { 
+    background: rgb(227, 225, 227)
+}
+
+p {
+    color:rgba(4, 3, 4, 0.4)
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #fffff; /* " tipo dessa propriedade é shorthand*/
+    border-radius:50%;
+
+/* border-width: 5px;
+   border-style: solid;
+   border-color: black;
+*/
+
+}
+
